@@ -86,7 +86,7 @@ author:
   location         : "Lima, Peru"
   employer         :
  
-  email            :
+  email            : "regina.olivera.00@gmail.com"
   researchgate     :  
   bitbucket        :
   codepen          :
@@ -180,7 +180,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
