@@ -1,0 +1,5 @@
+---
+title: "Advanced Microeconomics Topics"
+excerpt: "In this [folder](https://github.com/OliveraVictoria/ECO224/tree/main/Labs), you will find economic theory and applications (Stata) of the following methodologies: instrumental variables, differences in differences, discontinuous regression, matching and synthetic control."
+collection: portfolio
+---
